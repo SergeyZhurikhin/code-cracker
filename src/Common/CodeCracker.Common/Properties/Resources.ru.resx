@@ -157,7 +157,7 @@
     <value>Use nameof</value>
   </data>
   <data name="NameOfCodeFixProvider_Title" xml:space="preserve">
-    <value>Use nameof()</value>
+    <value>Использовать nameof()</value>
   </data>
   <data name="StringFormatAnalyzer_Description" xml:space="preserve">
     <value>String interpolation allows for better reading of the resulting string when compared to String.Format. You should use String.Format only when another method is supplying the format string.</value>
