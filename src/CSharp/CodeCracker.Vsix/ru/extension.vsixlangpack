@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<VsixLanguagePack Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema-lp/2010">
+  <LocalizedName>Code Cracker для C#</LocalizedName>
+  <LocalizedDescription>Библиотека анализатора для C#, на основе Рослин, для рефакторинга, анализа кода и других тонкостей.
+Посетите официальный сайт проекта на code-cracker.github.io.
+Так же сборки этой библиотеки доступны для скачивания в NuGet.
+Это проект сообщества, свободный и открытый исходным кодом. Каждый кто хочет привнести свой вклад, может добавить свое ответвление, для совместного использования кода. Деньги за использование этого программного обеспечения не взимаются и не будут взиматься когда-либо.</LocalizedDescription>
+</VsixLanguagePack>

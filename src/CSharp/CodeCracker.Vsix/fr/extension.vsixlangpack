@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<VsixLanguagePack Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema-lp/2010">
+  <LocalizedName>Code Cracker pour C#</LocalizedName>
+  <LocalizedDescription>Une bibliothèque de l'analyseur C# qui utilise Roslyn pour produire refactorisations, analyse de code, et d'autres subtilités.
+Consultez le site officiel du projet sur code-cracker.github.io.
+Statut Nuget compter NuGet téléchargements Questions ouvertes
+Ceci est un projet communautaire, libre et open source. Tout le monde est invité à contribuer, fourchette, partager et utiliser le code. Pas d'argent est perçu par ce logiciel, ni qu'elle le sera. Toujours.
+  </LocalizedDescription>
+</VsixLanguagePack>
